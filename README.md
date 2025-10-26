@@ -7,4 +7,4 @@
 [Project Schedule](https://github.com/users/msmouni/projects/4)
 
 ## Video Demos
-[Demos](https://github.com/cu-ecen-aeld/final-project-msmouni/wiki/Smouni-Final-Project-Video)
+[Demos](https://github.com/cu-ecen-aeld/final-project-msmouni/wiki/msmouni-Final-Project-Video)
